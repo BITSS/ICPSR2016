@@ -36,6 +36,10 @@ Note that Github Desktop works on Mac and Windows. If you're a Linux user, you m
 
 Dynamic documents allow you to write just one file that contains both your analysis code and your output (i.e. your final paper) so you can easily and reproducibly manage your work. The next time you return to a figure or table after six months and think "Where on earth is the code that generated this?" it will be obvious.
 
+##### A Two-Step Workflow with LaTeX
+Learning LaTeX for document production is a pretty daunting task, but it's quite powerful. Depending how many LaTeX users are in class, I'll describe a two-click workflow with LaTeX plus Stata/R/any stats package. You can get LaTeX [here](https://latex-project.org/ftp.html). Note that it's a large download.
+
+
 ##### Dynamic Documents in R
 
 [R](https://www.r-project.org/) is an open source statistical analysis tool, and [R Studio](https://www.rstudio.com/products/RStudio/) is a very nice centralized tool for managing code and viewing data and output all in one program. Please download both. (At the R link, pick a location near you to download; at the R Studio link, pick R Studio Desktop.)
