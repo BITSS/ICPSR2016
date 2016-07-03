@@ -1,6 +1,6 @@
 # ICPSR Transparency & Reproducibility Training
 by [Garret Christensen](http://www.ocf.berkeley.edu/~garret),
-UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http://www.bitss.org) & [Berkeley Institute for Data Science](http://bids.berkeley.edu))
+UC Berkeley ([Berkeley Initiative for Transparency in the Social Sciences](http://www.bitss.org) & [Berkeley Institute for Data Science](http://bids.berkeley.edu))
 
 ## Contents:
 ## Workshop Agenda
@@ -122,4 +122,4 @@ If you have ever installed these before, run ```adoupdate``` to see if you need 
 
 ### 3. A good text editor
 
-Writing good code is facilitated by a good text editor. You can get away without one because you almost certainly already have a program on your computer that can save simple ASCII text files (Notepad for Windows, or TextEdit for Mac--but change the default from Rich Text to Plain Text) but modern text editors do syntax highlighting, auto-complete, and a bunch of other cool stuff for you. I suggest [Atom](http://atom.io).
+Writing good code is facilitated by a good text editor. You can get away without one because you almost certainly already have a program on your computer that can save simple ASCII text files (Notepad for Windows, or TextEdit for Mac--but change the default from Rich Text to Plain Text) but modern text editors do syntax highlighting, auto-complete, and a bunch of other cool stuff for you. I suggest [Atom](http://atom.io). Other people like Notepad++ or Sublime.
