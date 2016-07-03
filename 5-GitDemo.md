@@ -1,6 +1,6 @@
 Outline of GitHub Desktop Demo
 ==============================
-BITSS World Bank Workshop, April 2016
+BITSS ICPSR Workshop, July 2016
 ------------------------------
 ![Git xkcd comic](https://imgs.xkcd.com/comics/git.png)
 
@@ -58,7 +58,7 @@ There are two ways to collaborate:
 1. Make everyone you trust a collaborator. For small projects with trusted collaborators only.
 2. Pull requests. For big projects--let anyone make suggestions (called pull requests) and the owner gets to choose whether to accept.
 
-We'll probably only have time for #1.
+We may only have time for #1.
 
 1. Pair up with a neighbor. One of you be A and one be B for this exercise.
 2. In the settings tab for A's repository on Github.com (that A published above), add B as a collaborator.

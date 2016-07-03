@@ -8,6 +8,8 @@ With Stata and LaTeX you can do a two-step workflow. LaTeX is extremely powerful
 Run your regressions in a Stata do file (StataLaTeX.do). Use the estout or outreg2 ado commands to create publication-quality regression tables formatted for LaTeX
 (outputS.tex is created by StataLaTeX.do).
 
+*If you don't have outreg2 or estout installed, you will have to install them with* ```ssc install estout``` and ```ssc install outreg2```*. You will also have to change the filepath to get this program to run on your computer.*
+
 For any specific values you'd like to automatically include in the paper, you can write a short program that will automatically store the values in a separate
 .tex file (StataScalarList.tex).
 
