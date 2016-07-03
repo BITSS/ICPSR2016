@@ -16,6 +16,9 @@ Begin to write a pre-analysis plan for a statistical analysis project that you a
   c. The Oregon Medicaid Expansion Lottery. Oregon had a lottery to expand Medicaid, leading to a good experimental design to study important health outcomes. The PAP and papers are all available [here](http://www.nber.org/oregon/).
 
 3. With your own work, or the example PAP:
-  a. Go through the PAP using Alejandro Ganimian's template. Complete the template, or see if you can find important items missing from one of the published paper's PAPs.
-  b. For your chosen project, complete either the AEA Social Science Registry application pages, or Aspredicted.org's short form. (Aspredicted will let you create a toy version that self-destructs after 24 hours. On the AEA you probably don't want to go all the way to publishing, unless you're really serious about your project.)
-  c. With your PAP materials you've created, set up an OSF page for the material. Go most, but not all of the way, towards registering materials. (Again, unless you're really serious about your work--you can't delete an OSF registration and there isn't a demo option.)
+
+  a. Go through the PAP using [Alejandro Ganimian's template](http://scholar.harvard.edu/alejandro_ganimian/classes/quantitative-methods-improving-causal-inference-educational-research-5). (The raw .tex file is on Github if you're a LaTeX user.) Complete the template, or see if you can find important items missing from one of the published paper's PAPs.
+
+  b. For your chosen project, complete either the [AEA Social Science Registry](http://socialscienceregistry.org) application pages, or [Aspredicted.org](http://aspredicted.org)'s short form. (Aspredicted will let you create a toy version that self-destructs after 24 hours. On the AEA you probably don't want to go all the way to publishing, unless you're really serious about your project.)
+
+  c. With your PAP materials you've created, set up an [OSF](http://www.osf.io) page for the material. Go most, but not all of the way, towards registering materials. (Again, unless you're really serious about your work--you can't delete an OSF registration and there isn't a demo option.)
