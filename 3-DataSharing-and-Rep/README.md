@@ -4,7 +4,9 @@ by Garret Christensen
 
 There are several activities you can do to work on replication:
 
-1. Read the major pyschology and economics replications papers in *Science*, the comments, and the replies. All are linked [here](http://datacolada.org/47). What term do from Michael Clemens' replication taxonomy do you think best applies to this research? Where do you come down as to whether the experiments were similar enough to be considered replications?
+1. Read the major pyschology and economics replications papers in *Science*, the technical comment, and the reply. All are linked [here](http://datacolada.org/47). You may also find Brian Nosek and Elizabeth Gilbert's [blog description](http://retractionwatch.com/2016/03/07/lets-not-mischaracterize-replication-studies-authors/) of the differences between one specific original study and its replication interesting.
+
+What term do from Michael Clemens' replication taxonomy do you think best applies to this research? Where do you come down as to whether the experiments were similar enough to be considered replications?
 
 1. You can download the data from the "crowdsourcing paper" ("Many analysts, one dataset: Making transparent how variations in analytical choices affect results" by Raphael Silberzahn and many others, including myself.) The data and materials are on [the OSF](https://osf.io/gvm2z/). You could either try and replicate (in the pure verification sense) my small contribution by using [my Stata code](https://osf.io/kx3q9/), or you could continue in the spirit of the project and see if you get different results by starting your own analysis from scratch.
 
