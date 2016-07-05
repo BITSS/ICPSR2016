@@ -4,7 +4,7 @@ by Garret Christensen
 
 There are several activities you can do to work on replication:
 
-1. Read the major pyschology and economics replications papers in *Science*, the comments, and the replies. All are linked [here](http://datacolada.org/47). Where do you come down?
+1. Read the major pyschology and economics replications papers in *Science*, the comments, and the replies. All are linked [here](http://datacolada.org/47). What term do from Michael Clemens' replication taxonomy do you think best applies to this research? Where do you come down as to whether the experiments were similar enough to be considered replications?
 
 1. You can download the data from the "crowdsourcing paper" ("Many analysts, one dataset: Making transparent how variations in analytical choices affect results" by Raphael Silberzahn and many others, including myself.) The data and materials are on [the OSF](https://osf.io/gvm2z/). You could either try and replicate (in the pure verification sense) my small contribution by using [my Stata code](https://osf.io/kx3q9/), or you could continue in the spirit of the project and see if you get different results by starting your own analysis from scratch.
 
@@ -13,4 +13,5 @@ There are several activities you can do to work on replication:
 2. Stata users can attempt to replicate Casey, Glennerster, and Miguel's "[Reshaping Institutions: Evidence on Aid Impacts Using a Preanalysis Plan](http://emiguel.econ.berkeley.edu/research/reshaping-institutions-evidence-on-aid-impacts-using-a-preanalysis-plan)". The data is [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl%3A1902.1/21708).
 
 For data sharing:
+
 4. Once you've replicated a paper to your satisfaction, share what you've done by uploading your code to a repository. (Or at least going as far as creating a draft--repositories can be permanent and deliberately have no delete option, so you might not want to post a demo.) Try Harvard's [Dataverse](http://dataverse.harvard.edu), [OpenICPSR](http://OpenICPSR.org), [Dryad](http://datadryad.org), [Figshare](http://figshare.com), or search [re3data](http://re3data.org) to find the most appropriate place for your type of research. If you use Dataverse or Figshare, once you've posted data, create an OSF page for your replication and link that repository to the Open Science Framework.
