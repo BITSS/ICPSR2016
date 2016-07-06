@@ -88,7 +88,7 @@ Version control is a powerful way to carefully track revisions to your documents
 
 ##### Optional: Specifics for Specifics Platforms
 
-Note that Github Desktop only works on Mac and Windows. If you're a Linux user, you might try one of [these](https://git-scm.com/download/gui/linux). Also if you're a Windows user, the command line tool that comes with Github Desktop is not the greatest, so you might want to download [this alternative](https://git-scm.com/download/win). If you've never used the command line before or any of this is confusing, don't worry about it and I'll try to clear it up at the workshop.  
+Git itself works on all platforms, but Github Desktop only works on Mac and Windows. If you're a Linux user, you might try one of [these](https://git-scm.com/download/gui/linux). Also if you're a Windows user, the command line tool that comes with Github Desktop is not the greatest, so you might want to download [this alternative](https://git-scm.com/download/win). If you've never used the command line before or any of this is confusing, don't worry about it and I'll try to clear it up at the workshop.  
 
 ### 2. Dynamic Documents with R/R Studio and Stata
 
