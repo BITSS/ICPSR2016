@@ -39,7 +39,7 @@ summary(cars)
 
 Loading the data
 ----------------
-You can bring in the Stata data directly with the 'foreign' package.
+You can bring in the Stata data directly with the 'foreign' package. However, as far as I know, this package only works through Stata version 12 data. I might be wrong on that.
 
 ```{r, echo = FALSE, warning=FALSE }
 WASHB<-read.dta("WASHBpublic_mock.dta")
